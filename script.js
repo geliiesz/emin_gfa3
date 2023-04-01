@@ -2,7 +2,7 @@ function stats(){
 	var num1 = Math.ceil(Math.random() * 20);
 	var num2 = Math.ceil(Math.random() * 20);
 	var num3 = Math.ceil(Math.random() * 20);
-    var alphbt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    var alphbt = "0ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     var bignum;
     var name;
     var mins;
